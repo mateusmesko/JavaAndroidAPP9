@@ -4,3 +4,6 @@
 
 ## Simples para o dia a dia
 
+-- salvando tudo localmente
+
+
